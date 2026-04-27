@@ -1,20 +1,5 @@
 # Klasifikasi Tingkat Kualitas Udara Menggunakan Metode KNN & Naive Bayes
 
-## 📋 Daftar Isi
-- [Tentang Project](#tentang-project)
-- [Tim Pengembang](#tim-pengembang)
-- [Latar Belakang Masalah](#latar-belakang-masalah)
-- [Dataset](#dataset)
-- [Metodologi](#metodologi)
-- [Model Machine Learning](#model-machine-learning)
-- [Hasil dan Perbandingan](#hasil-dan-perbandingan)
-- [Cara Menjalankan](#cara-menjalankan)
-- [Requirement](#requirement)
-- [Struktur Project](#struktur-project)
-- [Kontribusi](#kontribusi)
-
----
-
 ## 🎯 Tentang Project
 
 Project ini merupakan implementasi machine learning untuk **klasifikasi tingkat kualitas udara** menggunakan dua algoritma utama:

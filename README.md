@@ -437,15 +437,6 @@ Project ini dilisensikan di bawah **MIT License** - lihat file LICENSE untuk det
 
 ---
 
-## 📧 Kontak & Support
-
-Jika ada pertanyaan atau saran mengenai project ini, silakan:
-- 📧 Hubungi tim pengembang
-- 🐛 Buat Issue di GitHub
-- 💬 Diskusikan di Discussion board
-
----
-
 ## 🙏 Acknowledgments
 
 Terima kasih kepada:
